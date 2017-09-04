@@ -14,7 +14,7 @@
         <Disp Icon="Dir" LocTbl="false" />
         <Item ItemId=";(...) iption" ItemType="0" PsrId="306" Leaf="true">
           <Str Cat="Text">
-            <Val><![CDATA[Test Optional description for the command.]]></Val>
+            <Val><![CDATA[Test 02 Optional description for the command.]]></Val>
             <Tgt Cat="Text" Stat="Loc" Orig="New">
               <Val><![CDATA[コマンドの説明 (省略可能)。]]></Val>
             </Tgt>
